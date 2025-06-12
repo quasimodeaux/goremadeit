@@ -1,31 +1,18 @@
 .jumbotron {
-  background: url('gore1.png') no-repeat center center;
-  background-size: cover;
-  color: white;
-  text-align: center;
-  height: 500px;
-  padding-top: 100px;
-}
-
-img {
-  width: 100%;
-  max-width: 300px;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-.container2 {
-  padding: 40px;
-  text-align: center;
-}
-
-.fa {
-  margin: 0 10px;
-  font-size: 24px;
-  color: black;
-}
-
+    background: url("gore1.png");
+	background-size:auto;
+	float:left;
+    margin-bottom: 0%;
+	margin-top:0;
+    min-height: 300px;
+	height:500px;
+	width:100%;
+    background-repeat: no-repeat;
+    background-position: 0px 20px;
+    -webkit-background-size: cover;
+    background-size: cover;
+	}
+	
 .jumbotron h1{
 	color:#FFF;
 	font-family:IMPACT;	
