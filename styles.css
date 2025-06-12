@@ -25,3 +25,40 @@ img {
   font-size: 24px;
   color: black;
 }
+
+.jumbotron h1{
+	color:#FFF;
+	font-family:IMPACT;	
+	text-align:center;
+	font-size:70px;
+	letter-spacing:3px;
+	margin-top:40px;
+	margin-bottom: 40px;
+	font-weight:100;
+	}
+
+.jumbotron p{
+	color:#FFF;
+	font-family:IMPACT;
+	text-align:center;
+	font-size:35ox;
+}
+
+img{
+	height:300px;
+	float:left;
+	width:27%;
+}
+img.first{
+	margin-left:70px;
+}
+img.second{
+	float:center;
+}
+.container2{
+	position:center;
+	margin-left:10px;
+	background:black;
+	margin-bottom:40px;
+	
+}
